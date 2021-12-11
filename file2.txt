@@ -1,2 +1,2 @@
 Good bye!!
-345
+line from user2
